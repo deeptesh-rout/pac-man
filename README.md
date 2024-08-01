@@ -24,3 +24,6 @@ In this game I show you how to make Pac-Man move around the grid while avoiding 
 
 ### Next steps:
 My next goal is to make a copy of this game and apply logic to the ghost moves. At the moment they are choosing a direction to go in at random. I want to apply logic that makes them move closer to wherever Pac-man is.
+
+
+please tell me what can be improved
